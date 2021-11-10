@@ -1,14 +1,16 @@
 # Lab Machine Learning Iris Classification
-## Create the model that can classify the different species of the Iris flower
+
+
+## Create a model that can classify the different species of the Iris flower
 
 ![image](https://user-images.githubusercontent.com/88676121/141144626-55913b7c-1969-4efa-9c79-42751258e928.png)
 
 ## Table of content
-- Project Brief
-- Data
-- Process & Tools
-- Visualization
-- Key Take Aways
+- [Project Brief](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#project-brief)
+- [Data](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#data)
+- [Process & Tools](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#process--tools)
+- [Visualization](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#visualization) 
+- [Key Take Aways](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#visualization)
 
 ## Project Brief
 **Scenario**: Iris is a genus species of flowering plants. Within the Iris species we can find other different types such as the iris setosa, iris versicolor or the iris virginica.
@@ -73,11 +75,11 @@ Machine Learning Model: using scikit learn and logistic regression
 
 **Tools**
 
-Database: CSV file
+Database: [CSV file](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions/blob/main/iris_dirty.csv)
 
 Vizualizations: seaborn / matplotlib
 
-Code: Jupyter Notebook 
+Code: [Jupyter Notebook](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions/blob/main/Lab_Iris_Predictions.ipynb) 
 
 
 ## Visualization
