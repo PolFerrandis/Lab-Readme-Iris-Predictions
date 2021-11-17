@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/88676121/141144626-55913b7c-1969-4efa-9c79-42751258e928.png)
 
-## Table of content
+## Table of contents
 - [Project Brief](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#project-brief)
 - [Data](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#data)
 - [Process & Tools](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#process--tools)
